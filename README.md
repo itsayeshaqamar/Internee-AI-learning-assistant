@@ -1,4 +1,4 @@
-# InterneeAI Learning Coach 🎓⚡
+# InterneeAI Learning Coach 
 
 > Learn Smarter with AI-Powered Personalized Guidance built specifically for Internee.pk interns.
 
@@ -20,7 +20,7 @@ InterneeAI Learning Coach is an enterprise-grade personalized AI tutoring platfo
 
 ---
 
-## ⚠️ Problem Statement
+##  Problem Statement
 Standard upskilling portals present static, text-heavy curricula that fail to adapt to a student's prior experience or timeline commitments. Without a dedicated personal mentor:
 * Interns struggle to translate complex technical jargon into intuitive concepts.
 * There is no feedback loop to identify conceptual weak areas before screening phases.
@@ -28,7 +28,7 @@ Standard upskilling portals present static, text-heavy curricula that fail to ad
 
 ---
 
-## 💡 Solution Overview
+##  Solution Overview
 InterneeAI Learning Coach serves as a dedicated **1-on-1 AI Mentor** synced with Internee.pk internship objectives.
 1. **Dynamic Onboarding:** Students specify their track, timeline targets, and background expertise.
 2. **Personalized Roadmaps:** The AI structures a vertical learning chain of milestones.
@@ -37,7 +37,7 @@ InterneeAI Learning Coach serves as a dedicated **1-on-1 AI Mentor** synced with
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **Personalized Onboarding Wizard:** Tailors course milestones based on tracks (Frontend React, Machine Learning, Python Backend, Data Analyst).
 * **AI Tutor Chat:** Persistent messenger delivering custom analogies and code examples.
@@ -50,7 +50,7 @@ InterneeAI Learning Coach serves as a dedicated **1-on-1 AI Mentor** synced with
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 * **Frontend Framework:** Next.js (App Router)
 * **Styling Engine:** Tailwind CSS v4 & Vanilla CSS variables
@@ -62,7 +62,7 @@ InterneeAI Learning Coach serves as a dedicated **1-on-1 AI Mentor** synced with
 
 ---
 
-## 📐 Architecture & User Flow
+## Architecture & User Flow
 
 ```
 +--------------------------------------------------------+
@@ -151,7 +151,7 @@ npm run build
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 .
@@ -173,17 +173,17 @@ npm run build
 
 ---
 
-## 🔮 Future Roadmap
+## Future Roadmap
 * **Audio Voice Tutorials:** Voice inputs for mock behavioral interview responses.
 * **IDE Sandbox Sync:** Sync Sandboxes directly to VS Code extensions.
 * **Resume Parse Matcher:** Automatically parse user PDFs in Career Center to update matching scores.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Contributions are highly welcomed. Please read [CONTRIBUTING.md](file:///f:/internee%20tasks/Task%201/CONTRIBUTING.md) for branch naming specifications, coding patterns, and pull requests reviews before submitting updates.
 
 ---
 
-## 🌟 Acknowledgements
+##  Acknowledgements
 Powered by [Internee.pk](https://internee.pk) to empower thousands of students transitioning to professional software careers.
