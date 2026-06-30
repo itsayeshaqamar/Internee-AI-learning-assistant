@@ -185,10 +185,5 @@ Contributions are highly welcomed. Please read [CONTRIBUTING.md](file:///f:/inte
 
 ---
 
-## 🛡️ License
-Distributed under the MIT License. See [LICENSE](file:///f:/internee%20tasks/Task%201/LICENSE) for more details.
-
----
-
 ## 🌟 Acknowledgements
 Powered by [Internee.pk](https://internee.pk) to empower thousands of students transitioning to professional software careers.
