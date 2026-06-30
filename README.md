@@ -57,7 +57,7 @@ InterneeAI Learning Coach serves as a dedicated **1-on-1 AI Mentor** synced with
 * **State & Transitions:** Framer Motion, React Context
 * **Backend Database:** Cloud Firestore (synced with a robust Local Storage mockup fallback)
 * **Security & Auth:** Firebase Authentication (or localStorage mock sessions)
-* **AI Engines:** OpenAI API (GPT models)
+* **AI Engines:** Gemeni models
 * **Icons & UI:** Lucide React icons, Canvas Confetti
 
 ---
